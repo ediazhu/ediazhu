@@ -3,7 +3,7 @@
 ## Sobre mí
 👨‍🔬 Ingeniero Químico de Profesión  
 💻 Desarrollador de aplicaciones web por pasión (y necesidad)  
-🩻 Futuro Radiólogo por locura de aprender!
+🩻 Futuro TM. en Radiólogía por locura de aprender!
 
 ## Proyectos Destacados
 - 🚀 Orquestación de pequeños proyectos en Kubernetes
